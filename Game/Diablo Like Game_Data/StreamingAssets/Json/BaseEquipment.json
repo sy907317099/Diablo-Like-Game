@@ -1,0 +1,92 @@
+[{
+		"ID": 0,
+		"Part": 1,
+		"Name": "长刀",
+		"Status": 6,
+		"Value": 10.0
+	},
+	{
+		"ID": 1,
+		"Part": 2,
+		"Name": "普通头盔",
+		"Status": 8,
+		"Value": 8.0
+	},
+	{
+		"ID": 2,
+		"Part": 3,
+		"Name": "普通衣服",
+		"Status": 8,
+		"Value": 10.0
+	},
+	{
+		"ID": 3,
+		"Part": 4,
+		"Name": "普通手套",
+		"Status": 8,
+		"Value": 5.0
+	},
+	{
+		"ID": 4,
+		"Part": 5,
+		"Name": "普通鞋",
+		"Status": 8,
+		"Value": 5.0
+	},
+	{
+		"ID": 5,
+		"Part": 6,
+		"Name": "力量戒指",
+		"Status": 1,
+		"Value": 5.0
+	},
+	{
+		"ID": 6,
+		"Part": 6,
+		"Name": "智力戒指",
+		"Status": 2,
+		"Value": 5.0
+	},
+	{
+		"ID": 7,
+		"Part": 6,
+		"Name": "敏捷戒指",
+		"Status": 3,
+		"Value": 5.0
+	},
+	{
+		"ID": 8,
+		"Part": 6,
+		"Name": "抗性戒指",
+		"Status": 9,
+		"Value": 8.0
+	},
+	{
+		"ID": 9,
+		"Part": 7,
+		"Name": "力量项链",
+		"Status": 1,
+		"Value": 8.0
+	},
+	{
+		"ID": 10,
+		"Part": 7,
+		"Name": "智力项链",
+		"Status": 2,
+		"Value": 8.0
+	},
+	{
+		"ID": 11,
+		"Part": 7,
+		"Name": "敏捷项链",
+		"Status": 3,
+		"Value": 8.0
+	},
+	{
+		"ID": 12,
+		"Part": 7,
+		"Name": "抗性项链",
+		"Status": 9,
+		"Value": 8.0
+	}
+]

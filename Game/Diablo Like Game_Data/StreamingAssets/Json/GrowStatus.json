@@ -1,0 +1,31 @@
+[{
+		"ID": 0,
+		"StatusType": 1,
+		"StatusName": "力量",
+		"Value": 2.0
+	},
+	{
+		"ID": 1,
+		"StatusType": 2,
+		"StatusName": "智力",
+		"Value": 2.0
+	},
+	{
+		"ID": 2,
+		"StatusType": 3,
+		"StatusName": "敏捷",
+		"Value": 2.0
+	},
+	{
+		"ID": 3,
+		"StatusType": 4,
+		"StatusName": "生命",
+		"Value": 20.0
+	},
+	{
+		"ID": 4,
+		"StatusType": 5,
+		"StatusName": "魔力",
+		"Value": 10.0
+	}
+]

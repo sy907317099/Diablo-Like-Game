@@ -1,0 +1,757 @@
+[{
+		"ID": 0,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 3.0
+	},
+	{
+		"ID": 1,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 4.0
+	},
+	{
+		"ID": 2,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 5.0
+	},
+	{
+		"ID": 3,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 3.0
+	},
+	{
+		"ID": 4,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 4.0
+	},
+	{
+		"ID": 5,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 5.0
+	},
+	{
+		"ID": 6,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 3.0
+	},
+	{
+		"ID": 7,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 4.0
+	},
+	{
+		"ID": 8,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 5.0
+	},
+	{
+		"ID": 9,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 30.0
+	},
+	{
+		"ID": 10,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 35.0
+	},
+	{
+		"ID": 11,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 40.0
+	},
+	{
+		"ID": 12,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 30.0
+	},
+	{
+		"ID": 13,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 35.0
+	},
+	{
+		"ID": 14,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 40.0
+	},
+	{
+		"ID": 15,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 10.0
+	},
+	{
+		"ID": 16,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 13.0
+	},
+	{
+		"ID": 17,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 15.0
+	},
+	{
+		"ID": 18,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 10.0
+	},
+	{
+		"ID": 19,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 13.0
+	},
+	{
+		"ID": 20,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 15.0
+	},
+	{
+		"ID": 21,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 5.0
+	},
+	{
+		"ID": 22,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 6.0
+	},
+	{
+		"ID": 23,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 7.0
+	},
+	{
+		"ID": 24,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 5.0
+	},
+	{
+		"ID": 25,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 6.0
+	},
+	{
+		"ID": 26,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 7.0
+	},
+	{
+		"ID": 27,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 1.0
+	},
+	{
+		"ID": 28,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 1.1
+	},
+	{
+		"ID": 29,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 1.2
+	},
+	{
+		"ID": 30,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 1.0
+	},
+	{
+		"ID": 31,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 1.1
+	},
+	{
+		"ID": 32,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 1.2
+	},
+	{
+		"ID": 33,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 1.0
+	},
+	{
+		"ID": 34,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 1.1
+	},
+	{
+		"ID": 35,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 1.2
+	},
+	{
+		"ID": 36,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 5.0
+	},
+	{
+		"ID": 37,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 6.0
+	},
+	{
+		"ID": 38,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 7.0
+	},
+	{
+		"ID": 39,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 5.0
+	},
+	{
+		"ID": 40,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 6.0
+	},
+	{
+		"ID": 41,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 7.0
+	},
+	{
+		"ID": 42,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 6.0
+	},
+	{
+		"ID": 43,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 8.0
+	},
+	{
+		"ID": 44,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 10.0
+	},
+	{
+		"ID": 45,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 6.0
+	},
+	{
+		"ID": 46,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 8.0
+	},
+	{
+		"ID": 47,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 10.0
+	},
+	{
+		"ID": 48,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 6.0
+	},
+	{
+		"ID": 49,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 8.0
+	},
+	{
+		"ID": 50,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 10.0
+	},
+	{
+		"ID": 51,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 60.0
+	},
+	{
+		"ID": 52,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 70.0
+	},
+	{
+		"ID": 53,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 80.0
+	},
+	{
+		"ID": 54,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 60.0
+	},
+	{
+		"ID": 55,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 70.0
+	},
+	{
+		"ID": 56,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 80.0
+	},
+	{
+		"ID": 57,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 20.0
+	},
+	{
+		"ID": 58,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 26.0
+	},
+	{
+		"ID": 59,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 30.0
+	},
+	{
+		"ID": 60,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 20.0
+	},
+	{
+		"ID": 61,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 26.0
+	},
+	{
+		"ID": 62,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 30.0
+	},
+	{
+		"ID": 63,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 10.0
+	},
+	{
+		"ID": 64,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 12.0
+	},
+	{
+		"ID": 65,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 14.0
+	},
+	{
+		"ID": 66,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 10.0
+	},
+	{
+		"ID": 67,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 12.0
+	},
+	{
+		"ID": 68,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 14.0
+	},
+	{
+		"ID": 69,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 2.0
+	},
+	{
+		"ID": 70,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 2.2
+	},
+	{
+		"ID": 71,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 2.4
+	},
+	{
+		"ID": 72,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 2.0
+	},
+	{
+		"ID": 73,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 2.2
+	},
+	{
+		"ID": 74,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 2.4
+	},
+	{
+		"ID": 75,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 2.0
+	},
+	{
+		"ID": 76,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 2.2
+	},
+	{
+		"ID": 77,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 2.4
+	},
+	{
+		"ID": 78,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 10.0
+	},
+	{
+		"ID": 79,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 12.0
+	},
+	{
+		"ID": 80,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 14.0
+	},
+	{
+		"ID": 81,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 10.0
+	},
+	{
+		"ID": 82,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 12.0
+	},
+	{
+		"ID": 83,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 14.0
+	},
+	{
+		"ID": 84,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 9.0
+	},
+	{
+		"ID": 85,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 12.0
+	},
+	{
+		"ID": 86,
+		"Status": 1,
+		"Name": "Strength",
+		"Value": 15.0
+	},
+	{
+		"ID": 87,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 9.0
+	},
+	{
+		"ID": 88,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 12.0
+	},
+	{
+		"ID": 89,
+		"Status": 2,
+		"Name": "Intelligence",
+		"Value": 15.0
+	},
+	{
+		"ID": 90,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 9.0
+	},
+	{
+		"ID": 91,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 12.0
+	},
+	{
+		"ID": 92,
+		"Status": 3,
+		"Name": "Dexterity",
+		"Value": 15.0
+	},
+	{
+		"ID": 93,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 90.0
+	},
+	{
+		"ID": 94,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 105.0
+	},
+	{
+		"ID": 95,
+		"Status": 4,
+		"Name": "HP",
+		"Value": 120.0
+	},
+	{
+		"ID": 96,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 90.0
+	},
+	{
+		"ID": 97,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 105.0
+	},
+	{
+		"ID": 98,
+		"Status": 5,
+		"Name": "MP",
+		"Value": 120.0
+	},
+	{
+		"ID": 99,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 30.0
+	},
+	{
+		"ID": 100,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 39.0
+	},
+	{
+		"ID": 101,
+		"Status": 6,
+		"Name": "Attack",
+		"Value": 45.0
+	},
+	{
+		"ID": 102,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 30.0
+	},
+	{
+		"ID": 103,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 39.0
+	},
+	{
+		"ID": 104,
+		"Status": 7,
+		"Name": "Spell",
+		"Value": 45.0
+	},
+	{
+		"ID": 105,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 15.0
+	},
+	{
+		"ID": 106,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 18.0
+	},
+	{
+		"ID": 107,
+		"Status": 8,
+		"Name": "Defend",
+		"Value": 21.0
+	},
+	{
+		"ID": 108,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 15.0
+	},
+	{
+		"ID": 109,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 18.0
+	},
+	{
+		"ID": 110,
+		"Status": 9,
+		"Name": "Resistance",
+		"Value": 21.0
+	},
+	{
+		"ID": 111,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 3.0
+	},
+	{
+		"ID": 112,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 3.3
+	},
+	{
+		"ID": 113,
+		"Status": 10,
+		"Name": "AttackSpeed",
+		"Value": 3.6
+	},
+	{
+		"ID": 114,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 3.0
+	},
+	{
+		"ID": 115,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 3.3
+	},
+	{
+		"ID": 116,
+		"Status": 11,
+		"Name": "CastSpeed",
+		"Value": 3.6
+	},
+	{
+		"ID": 117,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 3.0
+	},
+	{
+		"ID": 118,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 3.3
+	},
+	{
+		"ID": 119,
+		"Status": 12,
+		"Name": "MoveSpeed",
+		"Value": 3.6
+	},
+	{
+		"ID": 120,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 15.0
+	},
+	{
+		"ID": 121,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 18.0
+	},
+	{
+		"ID": 122,
+		"Status": 13,
+		"Name": "PerHP",
+		"Value": 21.0
+	},
+	{
+		"ID": 123,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 15.0
+	},
+	{
+		"ID": 124,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 18.0
+	},
+	{
+		"ID": 125,
+		"Status": 14,
+		"Name": "PerMP",
+		"Value": 21.0
+	}
+]
